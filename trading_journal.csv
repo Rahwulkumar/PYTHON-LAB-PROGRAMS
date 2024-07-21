@@ -1,0 +1,2 @@
+Date,Symbol,Session,Trade Type,Instrument Type,Quantity,Entry Price,Exit Price,Stop Loss,Take Profit,Outcome,Risk,Description
+2024-07-21 21:38:40.116274,eurusd,london,buy,forex,200.0,2000.0,2020.0,1998.0,2021.0,profit,2.0,fvg
